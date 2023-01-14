@@ -6,7 +6,7 @@ const ServerSide = ({ cats }: any) => {
   return (
     <div>
       <Head>
-        <title>SSG</title>
+        <title>SSR</title>
       </Head>
       <h1>Коты</h1>
       <div className={styles.cats}>
